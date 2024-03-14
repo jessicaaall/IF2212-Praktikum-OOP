@@ -1,5 +1,5 @@
 # Praktikum IF2212 Pemrograman Berorientasi Objek STI
-Repo ini berisi file praktikum mata kuliah IF2212 Pemrograman Berorientasi Objek STI tahun 2023. Pada repo ini, terdapat file praktikum dari praktikum pertama sampai praktikum ketujuh, yang meliputi soal praktikum beserta jawaban benarnya.
+Repo ini berisi file praktikum mata kuliah IF2212 Pemrograman Berorientasi Objek STI tahun 2023. Praktikum Pemrograman Berorientasi Objek STI ini menggunakan bahasa pemrograman Java. Pada repo ini, terdapat file praktikum dari praktikum pertama sampai praktikum ketujuh, yang meliputi soal praktikum beserta jawaban benar.
 
 ## Topik Praktikum
 Berikut merupakan topik dari masing-masing praktikum.
